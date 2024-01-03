@@ -1,0 +1,2 @@
+#This file describes the install and use of Bowtie, Samtools and the SRA Toolkit (SRA (Sequence Read Archive).
+#SRA Toolkit - is an NCBI-defined format for NGS data. Every data submitted to NCBI needs to be in SRA format. The SRA Toolkit provides tools for downloading data, converting different formats of data into SRA format, and vice versa, extracting SRA data in other different formats.)
